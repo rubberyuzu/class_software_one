@@ -6,4 +6,4 @@ int main(){
 	printf ("b++ = %d\n", b++);
 	return 0;
 }
-// test
+// test 2
