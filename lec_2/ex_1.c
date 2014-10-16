@@ -6,4 +6,3 @@ int main(){
 	printf ("b++ = %d\n", b++);
 	return 0;
 }
-// test 3
