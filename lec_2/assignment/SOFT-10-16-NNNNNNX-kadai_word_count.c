@@ -1,3 +1,5 @@
+// took me one hour to complete this program.
+
 #include <stdio.h>
 #define IN 1
 #define OUT 0
@@ -39,9 +41,6 @@ int main() {
 	if(nc == 0){
 		nl = 0;
 	}
-
-
-
 
 	  printf( "\n#line = %d #word = %d #character = %d\n", nl, nw, nc );
 	  // until here, referring to src-08 from lecture 2.
