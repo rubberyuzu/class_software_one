@@ -1,0 +1,5 @@
+What is Two's complement?
+	Two's complement is a math operation on binary numbers.
+	In two's complement representation, positive numbers are simply represented as themselves in a binary expression, and negative numbers are represented as the number in which all the 0s and 1s are reversed compared to the positive number with the same absolute value, and added by 1.
+	This makes it easier to calculate subtraction, as you can just add the representation of the negative number with the same absolute value you want to subtract. And then if you look at the bit values (limited), you can get the answer.
+
