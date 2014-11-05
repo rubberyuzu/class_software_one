@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #define NALPHA 26
 
 int main() {
