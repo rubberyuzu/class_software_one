@@ -2,6 +2,7 @@
 
 int main(){
 	char *namelist[] = {"Kawahara", "Nakata", "Sakamoto", "Shinoda"};
+	// pointer of pointers.
 	int i;
 	for (i = 0; i < 4; ++i){
 		printf("Initial: %c\n",*namelist[i]);
